@@ -1,0 +1,11 @@
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\TobetoETrade\TobetoETrade\bin\Debug\net7.0\TobetoETrade.deps.json
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\TobetoETrade\TobetoETrade\bin\Debug\net7.0\TobetoETrade.dll
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\TobetoETrade\TobetoETrade\bin\Debug\net7.0\TobetoETrade.pdb
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\TobetoETrade\TobetoETrade\obj\Debug\net7.0\TobetoETrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\TobetoETrade\TobetoETrade\obj\Debug\net7.0\TobetoETrade.AssemblyInfoInputs.cache
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\TobetoETrade\TobetoETrade\obj\Debug\net7.0\TobetoETrade.AssemblyInfo.cs
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\TobetoETrade\TobetoETrade\obj\Debug\net7.0\TobetoETrade.csproj.CoreCompileInputs.cache
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\TobetoETrade\TobetoETrade\obj\Debug\net7.0\TobetoETrade.dll
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\TobetoETrade\TobetoETrade\obj\Debug\net7.0\refint\TobetoETrade.dll
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\TobetoETrade\TobetoETrade\obj\Debug\net7.0\TobetoETrade.pdb
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\TobetoETrade\TobetoETrade\obj\Debug\net7.0\ref\TobetoETrade.dll

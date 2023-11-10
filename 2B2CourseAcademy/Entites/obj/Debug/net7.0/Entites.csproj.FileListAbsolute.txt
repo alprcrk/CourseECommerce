@@ -1,0 +1,11 @@
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\Entites\bin\Debug\net7.0\Entites.deps.json
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\Entites\bin\Debug\net7.0\Entites.dll
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\Entites\bin\Debug\net7.0\Entites.pdb
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\Entites\obj\Debug\net7.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\Entites\obj\Debug\net7.0\Entites.AssemblyInfoInputs.cache
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\Entites\obj\Debug\net7.0\Entites.AssemblyInfo.cs
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\Entites\obj\Debug\net7.0\Entites.csproj.CoreCompileInputs.cache
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\Entites\obj\Debug\net7.0\Entites.dll
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\Entites\obj\Debug\net7.0\refint\Entites.dll
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\Entites\obj\Debug\net7.0\Entites.pdb
+C:\Users\ALPER\OneDrive\Masaüstü\Tobeto-Ders-\1A\CSharp\2B2CourseAcademy\Entites\obj\Debug\net7.0\ref\Entites.dll
